@@ -1,0 +1,8 @@
+prefix=/home/kiran/ekf/install
+
+Name: turtlebot_stage
+Description: Description of turtlebot_stage
+Version: 2.2.3
+Cflags: 
+Libs: -L/home/kiran/ekf/install/lib 
+Requires: 
